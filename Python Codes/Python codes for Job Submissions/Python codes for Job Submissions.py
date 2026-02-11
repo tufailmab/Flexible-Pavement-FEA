@@ -1,3 +1,4 @@
+# Find this code instructins here in this repo: https://github.com/tufailmab/Abaqus-Batch-Submit-Job
 # For Job Submission, you need this code to use:
 import subprocess
 import os
@@ -27,3 +28,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
