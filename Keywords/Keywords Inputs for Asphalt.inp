@@ -1,0 +1,8 @@
+** MATERIALS
+** 
+*Material, name=Asphalt
+*Creep
+ 0.00198,  0.339, -0.727, 333.15
+*Elastic
+ 81.3,    0.4, 333.15
+**

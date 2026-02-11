@@ -1,0 +1,6 @@
+- A_Asphalt Concrete: A_Asphalt Concrete_Width = C_Bottom Layer_Width, A_Asphalt Concrete_Depth = 250 mm + C_Bottom Layer_Depth + B_Middle Layer_Depth, Length = 10000 mm
+    - (For the sketch: x1 = -C_Bottom Layer_Width/2 mm, y1 = C_Bottom Layer_Depth + B_Middle Layer_Depth, x2 = C_Bottom Layer_Width/2 mm, y2 = B_Middle Layer_Depth+ C_Bottom Layer_Depth mm) + 250mm
+- B_Middle Layer: B_Middle Layer_Width = C_Bottom Layer_Width, B_Middle Layer_Depth = 250 mm + C_Bottom Layer_Depth, Length = 10000 mm
+    - (For the sketch: x1 = -C_Bottom Layer_Width/2 mm, y1 = C_Bottom Layer_Depth mm, x2 = C_Bottom Layer_Width/2 mm, y2 = C_Bottom Layer_Depth mm) + 250mm
+- C_Bottom Layer: C_Bottom Layer_Width = 5000 mm, C_Bottom Layer_Depth = 250 mm, Length = 10000 mm
+    - (For the sketch: x1 = -C_Bottom Layer_Width/2 mm, y1 = 0 mm, x2 = C_Bottom Layer_Width/2 mm, y2 = C_Bottom Layer_Depth mm)
