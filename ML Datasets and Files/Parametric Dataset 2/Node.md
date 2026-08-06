@@ -1,0 +1,1 @@
+The parameters.csv file contains duplicate entries where each run_number appears twice with identical values. You must remove the duplicate rows before using the data for analysis or machine learning.
