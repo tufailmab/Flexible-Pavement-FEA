@@ -1,0 +1,11 @@
+{
+  "No_of_Simulations_requested": 100, 
+  "successful_runs": 100, 
+  "Random_Seed": null, 
+  "script": "FlexPav_Advanced.py", 
+  "ran_and_extracted_results": false, 
+  "Sampling_Technique": "random", 
+  "Size_of_Mesh_mm": 25.0, 
+  "generated_on": "2026-08-06 03:11:58", 
+  "failed_runs": []
+}
