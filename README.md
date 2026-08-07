@@ -48,6 +48,42 @@
     if used in research or professional work.
   </p>
 
+<h2>New Addition: Machine Learning for Pavement FEA</h2>
+
+<p>
+  A new YouTube playlist, <strong>“PreProcessing with Python for Machine Learning”</strong>,
+  has been added. This playlist demonstrates the use of Python and ABAQUS for parametric
+  modeling, automated pre-processing, batch generation and execution of ABAQUS input files,
+  and preparation of simulation data for machine learning applications.
+</p>
+
+<p>
+  The workflow is based on a Master Cheat Sheet
+  <code>Pavement_FEA_Dataset_Analysis.xlsx</code> developed for managing large parametric
+  studies and organizing the resulting simulation data, along with
+  <code>ParametricPavementDataSet.py</code>.
+</p>
+
+<div style="margin: 1.5em 0; text-align: center;">
+  <a href="https://www.youtube.com/playlist?list=PLQ2fqsXfz3nw">
+    <img src="https://raw.githubusercontent.com/tufailmab/Flexible-Pavement-FEA/main/MLFEAPythonThumbnail.jpg"
+         alt="PreProcessing with Python for Machine Learning"
+         style="max-width: 480px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+  </a>
+</div>
+
+<p>
+  The playlist provides practical examples of how Python and ABAQUS can be combined
+  to automate simulation workflows and generate datasets suitable for machine learning
+  and parametric analysis.
+</p>
+
+<p>
+  <strong>Important:</strong> This learning resource is separate from the
+  <strong>ABAQUS Mega Course: Comprehensive Guide to Flexible Pavement Simulation</strong>
+  and is not part of that course.
+</p>
+
   <h2>Developer Information</h2>
   <ul>
     <li><strong>Instructor & Developer:</strong> Engr. Tufail Mabood</li>
